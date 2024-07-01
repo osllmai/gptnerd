@@ -1,7 +1,7 @@
-#include "./header.h"
+#include "header.h"
 #include "../gptnerd_backend/llmodel_c.h"
-#include "./utils.h"
-#include "./parse_json.h"
+#include "utils.h"
+#include "parse_json.h"
 
 
 //----------------------------------ANIMATION----------------------------------//
